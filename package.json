@@ -1,0 +1,17 @@
+{
+  "name": "erc20_blacklist",
+  "version": "1.0.0",
+  "description": "Functional test of an ERC20 Token with an Address List in a Black List that prevents its transfer to those addresses.",
+  "scripts": {
+    "build-contracts": "sol-merger \"./contracts/*.sol\" ./build"
+  },
+  "devDependencies": {
+    "sol-merger": "^4.4.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1",
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "ethers": "^5.4.0"
+  }
+}
