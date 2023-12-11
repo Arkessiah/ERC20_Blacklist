@@ -27,7 +27,8 @@ I have not used any development environment like Hardhat or Foundry to avoid wei
 #### I have also done these functional tests on the deployed contract: 
 https://mumbai.polygonscan.com/address/0xA7B7123987A9DBcCe84C2f08dBAaD031BA839eC4
 
-Contract Address: 0xA7B7123987A9DBcCe84C2f08dBAaD031BA839eC4
+Contract Address v1: 0xA7B7123987A9DBcCe84C2f08dBAaD031BA839eC4
+Contract Address v2 Final: 0xA7B7123987A9DBcCe84C2f08dBAaD031BA839eC4
 
 - I have minted 1000 OPToken tokens. ✅
 - I have burned 100 OPToken tokens.  ✅
